@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josiah, an <a href="https://linkedin.com/in/josiah-shiel-1499b5b3
-">IT Professional</a>☺</h1>
+">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
